@@ -1,0 +1,4 @@
+{
+  "order_clothes_test.py::LoginTests": true,
+  "order_clothes_test.py::OrderClothesTests::test_orderClothes": true
+}

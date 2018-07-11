@@ -1,0 +1,1367 @@
+1522830642253	geckodriver	INFO	geckodriver 0.19.1
+1522830642268	geckodriver	INFO	Listening on 127.0.0.1:59231
+1522830644310	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.QGWiBEnMMhsz"
+1522830646080	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522830647001	Marionette	INFO	Enabled via --marionette
+[GPU 11960] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522830649995	Marionette	INFO	Listening on port 59237
+1522830650003	Marionette	INFO	Listening on port 59237
+1522830650112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522830650164	Marionette	DEBUG	loaded listener.js
+1522830650272	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522830658307	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522830658307	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522830660162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522830661242	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[GPU 11960] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522830702841	geckodriver	INFO	geckodriver 0.19.1
+1522830702861	geckodriver	INFO	Listening on 127.0.0.1:59377
+1522830704978	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.t9YB2p95eGPt"
+1522830705766	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522830706694	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1522830709271	Marionette	INFO	Listening on port 59383
+1522830709313	Marionette	INFO	Listening on port 59383
+1522830710261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522830710330	Marionette	DEBUG	loaded listener.js
+1522830710458	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522830719902	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522830719902	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522830721993	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522830722829	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[GPU 12108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10736] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522831597051	geckodriver	INFO	geckodriver 0.19.1
+1522831597067	geckodriver	INFO	Listening on 127.0.0.1:59609
+1522831599162	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.hVjdmOPxTb88"
+1522831599891	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522831600753	Marionette	INFO	Enabled via --marionette
+[GPU 11020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12552] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522831603328	Marionette	INFO	Listening on port 59615
+1522831603344	Marionette	INFO	Listening on port 59615
+1522831603392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522831603661	Marionette	DEBUG	loaded listener.js
+1522831603832	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522831604537	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522831604537	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522831606423	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522831607169	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522831607174	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522831608793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=807985979449;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522831608794	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=3365643379281;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522831609486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=807985979449;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831609501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=3365643379281;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831610283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=807985979449;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831610286	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=807985979449;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831610287	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=807985979449;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831610289	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=807985979449;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522831610716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=3365643379281;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831610720	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=3365643379281;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831610721	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=3365643379281;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831610722	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=3365643379281;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522831613145	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522831629836	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522831630296	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/signIn"
+1522831631304	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1522831631306	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/signIn"
+1522831632135	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1522831632224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/signIn?error=true"
+1522831632275	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/signIn?error=true"
+1522831632463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=9491212394475;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2FsignIn%3Ferror%3Dtrue?"
+1522831632466	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=9491212394475;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2FsignIn%3Ferror%3Dtrue?"
+1522831633601	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/signIn?error=true"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522831663649	Marionette	INFO	New connections will no longer be accepted
+1522831664308	geckodriver	INFO	geckodriver 0.19.1
+1522831664328	geckodriver	INFO	Listening on 127.0.0.1:64757
+1522831666378	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.FdlFR0DNvXDI"
+1522831667046	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522831668097	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Parent 13488] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522831670708	Marionette	INFO	Listening on port 64763
+1522831670729	Marionette	INFO	Listening on port 64763
+1522831671698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522831671755	Marionette	DEBUG	loaded listener.js
+1522831671919	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522831672095	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522831672096	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522831673798	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522831674756	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522831679851	Marionette	INFO	New connections will no longer be accepted
+1522831680683	geckodriver	INFO	geckodriver 0.19.1
+1522831680706	geckodriver	INFO	Listening on 127.0.0.1:64874
+1522831682780	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.RVsbtbRET6yL"
+1522831683461	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522831684527	Marionette	INFO	Enabled via --marionette
+[GPU 13316] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522831686516	Marionette	INFO	Listening on port 64880
+1522831686521	Marionette	INFO	Listening on port 64880
+1522831686963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522831687005	Marionette	DEBUG	loaded listener.js
+1522831687113	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522831697520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522831697520	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522831699125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522831699945	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522831699954	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522831702377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3144114310259;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522831702638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=7590921093120;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522831703036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=3144114310259;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831703242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=7590921093120;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831703923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=3144114310259;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831703936	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=3144114310259;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831703940	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=3144114310259;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831703941	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3144114310259;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522831704117	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=7590921093120;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831704122	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=7590921093120;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831704126	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=7590921093120;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522831704129	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=7590921093120;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522831705745	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522831722220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522831722673	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/signIn"
+1522831724182	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1522831724189	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/signIn"
+1522831725028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/my-account"
+1522831725030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1522831725203	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+1522831726126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=8464429798863;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1522831726128	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=8464429798863;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1522831727063	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522831747151	Marionette	INFO	New connections will no longer be accepted
+1522831747777	geckodriver	INFO	geckodriver 0.19.1
+1522831747807	geckodriver	INFO	Listening on 127.0.0.1:65027
+1522831749900	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.yYwnXLpm33Dz"
+1522831750578	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522831751599	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1522831753988	Marionette	INFO	Listening on port 65034
+1522831754008	Marionette	INFO	Listening on port 65034
+1522831754067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522831754130	Marionette	DEBUG	loaded listener.js
+1522831754281	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522831754387	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522831754388	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522831756017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522831756788	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522831756796	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+[GPU 6672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522832067045	geckodriver	INFO	geckodriver 0.19.1
+1522832067061	geckodriver	INFO	Listening on 127.0.0.1:65136
+1522832069165	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.5NDXCaf2254C"
+1522832069865	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522832070774	Marionette	INFO	Enabled via --marionette
+[Child 13928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522832073222	Marionette	INFO	Listening on port 65143
+1522832073230	Marionette	INFO	Listening on port 65143
+1522832073576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522832073626	Marionette	DEBUG	loaded listener.js
+1522832073740	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522832074017	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522832074018	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522832075880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522832079392	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522832079398	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522832081707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=7973727322929;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522832081709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=2888189855797;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522832081774	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=2888189855797;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832081776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7973727322929;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832082982	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=2888189855797;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832082992	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=2888189855797;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832082995	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=2888189855797;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832082997	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=2888189855797;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522832083135	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7973727322929;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832083139	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7973727322929;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832083141	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7973727322929;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832083143	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=7973727322929;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522832086101	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522832102636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522832102942	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/signIn"
+1522832104183	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1522832104191	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/signIn"
+1522832104990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/my-account"
+1522832105056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1522832105058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1522832105276	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+1522832105458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=6437554770034;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1522832105460	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=6437554770034;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1522832107145	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522832227690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[Child 8952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522832316544	geckodriver	INFO	geckodriver 0.19.1
+1522832316556	geckodriver	INFO	Listening on 127.0.0.1:65346
+1522832318585	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.JeQbNhdGNWmX"
+1522832319617	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522832320515	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[GPU 11008] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522832322957	Marionette	INFO	Listening on port 65352
+1522832323264	Marionette	INFO	Listening on port 65352
+[GPU 11008] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522832324946	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x840006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1522832377288	geckodriver	INFO	geckodriver 0.19.1
+1522832377319	geckodriver	INFO	Listening on 127.0.0.1:65381
+1522832379405	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.tJvgUKLzunYb"
+1522832379843	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522832380803	Marionette	INFO	Enabled via --marionette
+[GPU 6904] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522832383447	Marionette	INFO	Listening on port 65389
+1522832383466	Marionette	INFO	Listening on port 65389
+1522832383671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522832383724	Marionette	DEBUG	loaded listener.js
+1522832383869	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522832384183	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522832384183	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522832385962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522832388317	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522832405299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522832405695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522832476252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522832704368	Marionette	INFO	New connections will no longer be accepted
+1522832729572	geckodriver	INFO	geckodriver 0.19.1
+1522832729587	geckodriver	INFO	Listening on 127.0.0.1:49279
+1522832731619	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.MvW2SFGuF2wf"
+1522832732534	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522832733524	Marionette	INFO	Enabled via --marionette
+[GPU 7120] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522832736216	Marionette	INFO	Listening on port 49285
+1522832736223	Marionette	INFO	Listening on port 49285
+1522832736963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522832736998	Marionette	DEBUG	loaded listener.js
+1522832737119	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522832737295	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522832737295	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522832738730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522832740538	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522832740546	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522832742157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=6421057429192;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522832742159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=7264872429677;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522832743304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7264872429677;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832743308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=6421057429192;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832743352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7264872429677;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832743354	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7264872429677;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832743355	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7264872429677;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832743356	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=7264872429677;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522832743549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=6421057429192;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832743554	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=6421057429192;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832743559	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=6421057429192;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522832743560	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=6421057429192;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522832743644	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522832760123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522832760471	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/signIn"
+1522832761741	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1522832761745	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/signIn"
+1522832762597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/my-account"
+1522832762607	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1522832762793	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+1522832763696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=5097320089107;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1522832763697	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=5097320089107;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1522832764237	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522832784643	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522832785105	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/my-account"
+1522832785525	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/my-account"
+1522832785531	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/my-account"
+1522832786403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522832786415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1522832786565	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522832787442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=5201011720729;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522832787444	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=5201011720729;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522832788111	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522832814559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522832818010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522832818297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522832818322	Marionette	INFO	New connections will no longer be accepted
+[Child 8896] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1522847979047	geckodriver	INFO	geckodriver 0.19.1
+1522847979078	geckodriver	INFO	Listening on 127.0.0.1:50583
+1522847980827	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.L7LLRgrDR05C"
+1522847981422	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522847982583	Marionette	INFO	Enabled via --marionette
+[GPU 14900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522847986000	Marionette	INFO	Listening on port 50589
+1522847986030	Marionette	INFO	Listening on port 50589
+1522847986255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522847986326	Marionette	DEBUG	loaded listener.js
+1522847986489	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522847996438	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522847996438	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522847998466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522847999365	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[GPU 14900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522848061369	geckodriver	INFO	geckodriver 0.19.1
+1522848061399	geckodriver	INFO	Listening on 127.0.0.1:50765
+1522848063548	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.Z279JCEtP9R0"
+1522848064343	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522848065657	Marionette	INFO	Enabled via --marionette
+[GPU 5268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13072] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522848068380	Marionette	INFO	Listening on port 50771
+[Child 10848] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10848] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522848068432	Marionette	INFO	Listening on port 50771
+1522848068871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522848068942	Marionette	DEBUG	loaded listener.js
+1522848069112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522848079068	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522848079069	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522848081153	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522848082006	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[GPU 5268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1522848261529	geckodriver	INFO	geckodriver 0.19.1
+1522848261567	geckodriver	INFO	Listening on 127.0.0.1:54416
+1522848263664	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.Ykx0N1tNvCDr"
+1522848264709	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522848266016	Marionette	INFO	Enabled via --marionette
+[GPU 11892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5768] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522848268884	Marionette	INFO	Listening on port 54423
+1522848268894	Marionette	INFO	Listening on port 54423
+1522848269104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522848269305	Marionette	DEBUG	loaded listener.js
+1522848269484	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522848269614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522848269615	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522848271846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522848272861	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[GPU 11892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522848412805	geckodriver	INFO	geckodriver 0.19.1
+1522848412836	geckodriver	INFO	Listening on 127.0.0.1:54702
+1522848414931	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.NEAlibTZIDx9"
+1522848415717	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522848417201	Marionette	INFO	Enabled via --marionette
+[GPU 15028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1522848420268	Marionette	INFO	Listening on port 54708
+1522848420356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522848420423	Marionette	INFO	Listening on port 54708
+1522848420815	Marionette	DEBUG	loaded listener.js
+1522848421114	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522848421340	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522848421341	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522848423663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522848424856	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 230: TypeError: Cc[aContract] is undefined
+[Child 4516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+12 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522849407285	Marionette	INFO	Enabled via --marionette
+1522849411318	Marionette	INFO	Listening on port 51788
+1522849411333	Marionette	INFO	Listening on port 51788
+1522849411869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522849411939	Marionette	DEBUG	loaded listener.js
+1522849412158	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522849421267	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522849421268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522849424296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522849426194	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522849437005	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522849457357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522849458103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522849478890	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522849480411	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/my-account"
+1522849480888	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/my-account"
+1522849480900	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/my-account"
+1522849482809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1522849482820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1522849482833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522849483282	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522849485158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=7057534153874;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522849485161	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=7057534153874;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522849485303	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522849485621	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522849485871	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522849513221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522849516916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522849517464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[GPU 18300] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522849762284	geckodriver	INFO	geckodriver 0.19.1
+1522849762335	geckodriver	INFO	Listening on 127.0.0.1:49193
+1522849764475	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.L89XJrdLMKsS"
+1522849765493	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522849766963	Marionette	INFO	Enabled via --marionette
+1522849770400	Marionette	INFO	Listening on port 49199
+1522849770517	Marionette	INFO	Listening on port 49199
+1522849770818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522849770917	Marionette	DEBUG	loaded listener.js
+1522849771233	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522849771413	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522849771414	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522849774903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522849777460	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522849787270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522849807204	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522849807729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522849828219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522849829084	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/my-account"
+1522849829747	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/my-account"
+1522849829750	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/my-account"
+1522849831276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1522849831282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1522849831316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522849831601	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522849857960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522849861587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522849861959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+[GPU 17908] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522850216146	geckodriver	INFO	geckodriver 0.19.1
+1522850216180	geckodriver	INFO	Listening on 127.0.0.1:49483
+1522850218343	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.qMOohfHms9RL"
+1522850219442	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522850221092	Marionette	INFO	Enabled via --marionette
+[GPU 17836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522850224641	Marionette	INFO	Listening on port 49489
+1522850224738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522850224780	Marionette	INFO	Listening on port 49489
+1522850224864	Marionette	DEBUG	loaded listener.js
+1522850225081	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522850234847	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522850234848	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522850237664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522850239200	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522850249120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522850268074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522850268744	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522850289384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522850290929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522850318766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522850322380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522850323295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[GPU 17836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522850727919	geckodriver	INFO	geckodriver 0.19.1
+1522850727958	geckodriver	INFO	Listening on 127.0.0.1:49857
+1522850730054	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.q1DSUKuZKqVt"
+1522850730850	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522850732432	Marionette	INFO	Enabled via --marionette
+1522850736664	Marionette	INFO	Listening on port 49863
+1522850736799	Marionette	INFO	Listening on port 49863
+1522850737668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522850737739	Marionette	DEBUG	loaded listener.js
+1522850737951	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522850741632	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522850741632	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522850744672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522850746000	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522850754535	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522850774119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522850774934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522850795491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522850796394	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/my-account"
+1522850796859	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/my-account"
+1522850796871	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/my-account"
+1522850798404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1522850798405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1522850798408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522850798860	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522850800687	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=4493051652728;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522850800697	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=4493051652728;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522850800855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522850801136	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522850801633	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522850828244	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522850832076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522850832576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+[GPU 22204] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13240] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522851461986	geckodriver	INFO	geckodriver 0.19.1
+1522851462012	geckodriver	INFO	Listening on 127.0.0.1:54593
+1522851464140	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.fZ9MAKrXABhF"
+1522851464845	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522851466156	Marionette	INFO	Enabled via --marionette
+1522851468997	Marionette	INFO	Listening on port 54600
+1522851469006	Marionette	INFO	Listening on port 54600
+1522851469612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522851469661	Marionette	DEBUG	loaded listener.js
+1522851469857	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522851470106	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522851470108	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522851472157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522851472981	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522851479934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522851497829	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851498284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522851518703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851519307	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/my-account"
+1522851519713	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/my-account"
+1522851519718	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/my-account"
+1522851520821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1522851520827	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1522851520837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522851521121	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522851522431	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=1088355542378;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522851522434	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=1088355542378;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522851522500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522851522868	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522851523301	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522851549297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851552780	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851553102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 537: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 587: unreachable code after return statement
+1522851575768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851578119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851578774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851581175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851581483	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851583764	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522851590333	Marionette	INFO	New connections will no longer be accepted
+1522910676001	geckodriver	INFO	geckodriver 0.19.1
+1522910676032	geckodriver	INFO	Listening on 127.0.0.1:64639
+1522910678153	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.oiLFVdy5mXPW"
+1522910678589	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1522910679608	Marionette	INFO	Enabled via --marionette
+[GPU 18512] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522910682561	Marionette	INFO	Listening on port 64645
+1522910682588	Marionette	INFO	Listening on port 64645
+1522910683451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1522910683501	Marionette	DEBUG	loaded listener.js
+1522910683710	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522910687435	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522910687436	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522910691169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1522910696748	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522910696756	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1522910702221	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=8041610353841;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522910702236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=1070363598430;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522910707474	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=8041610353841;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522910707475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=1070363598430;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522910710679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522910710863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=8041610353841;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522910710867	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=8041610353841;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522910710872	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=8041610353841;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522910710875	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=8041610353841;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522910710880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=1070363598430;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522910710881	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=1070363598430;gtm=G42;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522910710883	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=1070363598430;gtm=G42;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1522910710887	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=1070363598430;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1522910711283	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522910727591	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3130: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3571: unreachable code after return statement
+1522910733147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3130: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3571: unreachable code after return statement
+1522910750418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522910750998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3130: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3571: unreachable code after return statement
+1522910771369	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522910771833	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/my-account"
+1522910774740	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/my-account"
+1522910774746	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/my-account"
+1522910775254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1522910775255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1522910775652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522910775886	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1522910776188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3081264959891;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522910776190	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3081264959891;gtm=G42;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1522910779681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522910779757	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1522910781245	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3130: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3571: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3130: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3571: unreachable code after return statement
+1522910807403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522910810871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1522910811182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3130: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3571: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[GPU 18512] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523949399072	geckodriver	INFO	geckodriver 0.19.1
+1523949399092	geckodriver	INFO	Listening on 127.0.0.1:54087
+1523949401302	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.TR097JgVWact"
+1523949403054	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1523949404132	Marionette	INFO	Enabled via --marionette
+[GPU 1452] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523949408222	Marionette	INFO	Listening on port 54093
+1523949408229	Marionette	INFO	Listening on port 54093
+1523949408862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523949408955	Marionette	DEBUG	loaded listener.js
+1523949409105	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523949413779	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523949413780	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523949418413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1523949425151	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1523949425245	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1523949431665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=7863174158097;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523949432437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=1245199740526;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523949438946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=7863174158097;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523949438949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=1245199740526;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523949442271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=1245199740526;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523949442286	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=1245199740526;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523949442290	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=1245199740526;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523949442293	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=1245199740526;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523949442294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=7863174158097;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523949442296	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=7863174158097;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523949442299	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=7863174158097;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523949442302	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=7863174158097;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523949443340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523949445767	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523949464831	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523949539416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523949539939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523949610777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523949611270	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/signIn?error=true"
+1523949613990	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn?error=true"
+1523949613994	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/signIn?error=true"
+1523949614720	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1523949614721	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1523949615303	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523949615832	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523949616858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=4495679880786;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1523949616861	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=4495679880786;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1523949621346	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523949622819	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523949623257	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523949650127	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523949653743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523949654112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523950288440	Marionette	INFO	New connections will no longer be accepted
+r	INFO	Listening on 127.0.0.1:54844
+1523950070972	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.to4T87XW0Eke"
+1523950072039	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1523950073213	Marionette	INFO	Enabled via --marionette
+[Child 9648] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9648] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523950076516	Marionette	INFO	Listening on port 54851
+1523950076543	Marionette	INFO	Listening on port 54851
+1523950076923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523950077018	Marionette	DEBUG	loaded listener.js
+1523950077202	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523950080668	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523950080668	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523950087492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1523950089421	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1523950089429	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1523950092598	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=5584769834018;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523950092622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=9443043131902;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523950096237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9443043131902;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523950096238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=5584769834018;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523950098127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523950098541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9443043131902;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523950098549	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9443043131902;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523950098552	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9443043131902;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523950098555	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=9443043131902;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523950098592	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=5584769834018;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523950098595	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=5584769834018;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523950098598	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=5584769834018;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523950098599	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=5584769834018;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523950100431	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523950117674	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523950123213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523950141273	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1523950141327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523950141827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for: signIn
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523950162340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523950162908	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/my-account"
+1523950164544	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/my-account"
+1523950164561	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/my-account"
+1523950165300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1523950165301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1523950165826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523950166146	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523950166469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3524627623673;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1523950166531	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3524627623673;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1523950170352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523950170471	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523950171282	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523950198215	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523950201753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523950202113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523950840331	Marionette	INFO	New connections will no longer be accepted
+[Child 5656] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1523967912941	geckodriver	INFO	geckodriver 0.19.1
+1523967912972	geckodriver	INFO	Listening on 127.0.0.1:58782
+1523967915081	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.g20PKABOK0Zm"
+1523967915502	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1523967916355	Marionette	INFO	Enabled via --marionette
+[GPU 12132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523967918462	Marionette	INFO	Listening on port 58788
+1523967918542	Marionette	INFO	Listening on port 58788
+1523967918927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523967919003	Marionette	DEBUG	loaded listener.js
+1523967919125	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523967923866	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523967923867	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523967928966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1523967934051	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1523967934057	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1523967939702	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=9810210251834;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523967939719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=3394923201002;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523967945890	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=9810210251834;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523967945949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=3394923201002;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523967949345	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=3394923201002;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523967949350	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=3394923201002;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523967949353	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=3394923201002;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523967949355	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=3394923201002;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523967949372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=9810210251834;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523967949374	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=9810210251834;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523967949375	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=9810210251834;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523967949376	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=9810210251834;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523967951315	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523967953183	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523967970645	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523967976065	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523967993697	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1523967993932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523967994450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523968014873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523968015275	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/my-account"
+1523968017400	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/my-account"
+1523968017422	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/my-account"
+1523968017906	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1523968017906	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1523968018350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968018575	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968018862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=2933886826105;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1523968018863	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=2933886826105;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1523968020890	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968020911	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968021236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523968021481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968021498	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968021593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968021608	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968021693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968021708	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523968021835	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523968021837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://connect.facebook.net/log/fbevents_telemetry/"
+1523968021839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1523968021839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://connect.facebook.net/log/fbevents_telemetry/"
+1523968021952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1523968021961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://connect.facebook.net/log/fbevents_telemetry/"
+1523968021962	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1523968022019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://connect.facebook.net/log/fbevents_telemetry/"
+1523968022020	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1523968022278	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523968048527	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523968051952	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523968052264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 544: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 594: unreachable code after return statement
+1523968686724	Marionette	INFO	New connections will no longer be accepted
+1523968894620	geckodriver	INFO	geckodriver 0.19.1
+1523968894651	geckodriver	INFO	Listening on 127.0.0.1:59162
+1523968896731	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.cRxBEsiuwaHl"
+1523968897165	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1523968897950	Marionette	INFO	Enabled via --marionette
+[GPU 9380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523968899992	Marionette	INFO	Listening on port 59168
+1523968900011	Marionette	INFO	Listening on port 59168
+1523968900434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523968900511	Marionette	DEBUG	loaded listener.js
+1523968900619	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523968905720	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523968905720	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523968909443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1523968914843	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1523968914849	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1523968920407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3842389667683;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523968920411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=9111060142973;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523968926612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=3842389667683;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523968926695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9111060142973;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523968930720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=3842389667683;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523968930726	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=3842389667683;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523968930728	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=3842389667683;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523968930730	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3842389667683;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523968930735	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9111060142973;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523968930737	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.co.in/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9111060142973;gtm=G46;u1=us;_dc_1=3;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523968930738	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9111060142973;gtm=G46;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1523968930739	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=9111060142973;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1523968931940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523968932828	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523968951237	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3139: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3581: unreachable code after return statement
+1523968956700	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3139: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3581: unreachable code after return statement
+1523968972866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523968973399	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/signIn"
+1523968975360	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1523968975365	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/signIn"
+1523968976385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/my-account"
+1523968976387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1523968976387	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1523968976581	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+1523968976944	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3398092078762;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1523968976948	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=3398092078762;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1523968977721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523968978270	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523968978869	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3139: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3581: unreachable code after return statement
+1523968999262	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523968999660	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/my-account"
+1523969004094	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/my-account"
+1523969004102	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/my-account"
+1523969004610	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1523969004611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1523969005053	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523969005238	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+1523969005903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=2808290872061;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1523969005904	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=2808290872061;gtm=G46;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fsearch%3Fsearch-cat%3Dheader-search%26text%3DGucci%2BCities%2Bcotton%2BT-shirt?"
+1523969007508	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523969007794	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1523969009066	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/search?search-cat=header-search&text=Gucci+Cities+cotton+T-shirt"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3139: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3581: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3139: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3581: unreachable code after return statement
+1523969035007	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523969038445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523969038789	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3139: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3581: unreachable code after return statement
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 230: TypeError: Cc[aContract] is undefined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/captivedetect.js, line 348: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/captivedetect.js, line 348: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/captivedetect.js, line 348: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/captivedetect.js, line 348: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/captivedetect.js, line 348: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/captivedetect.js, line 348: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/captivedetect.js, line 348: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/captivedetect.js, line 348: ReferenceError: gSysMsgr is not defined
+[GPU 9380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+[GPU 9380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526288559855	geckodriver	INFO	geckodriver 0.19.1
+1526288559918	geckodriver	INFO	Listening on 127.0.0.1:56514
+1526288562152	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\harirath\\AppData\\Local\\Temp\\rust_mozprofile.bH12SQL3kVLR"
+1526288564198	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1526288565494	Marionette	INFO	Enabled via --marionette
+[GPU 9784] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526288570436	Marionette	INFO	Listening on port 56522
+1526288570482	Marionette	INFO	Listening on port 56522
+1526288570830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526288570897	Marionette	DEBUG	loaded listener.js
+1526288571033	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1526288574645	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1526288574647	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1526288579069	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1526288584485	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1526288584546	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1526288590240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=9456279377127;gtm=G4r;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1526288590241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=7278800627754;gtm=G4r;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1526288596643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9456279377127;gtm=G4r;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1526288596654	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=9456279377127;gtm=G4r;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1526288596656	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=9456279377127;gtm=G4r;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1526288596668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7278800627754;gtm=G4r;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1526288596671	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=7278800627754;gtm=G4r;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1526288596673	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=7278800627754;gtm=G4r;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1526288600461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1526288601911	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1526288622288	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3139: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3581: unreachable code after return statement
+1526288697621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1526288697953	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1526288698033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "tooltip"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "signInSalesAssistant"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "signIn"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "ajaxLoader"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "searchFlyout"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "formValidation"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "thankYouNewsletter"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3139: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 3581: unreachable code after return statement
+[Child 5188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1526288718061	geckodriver::marionette	ERROR	Failed to kill browser process

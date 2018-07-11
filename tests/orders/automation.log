@@ -1,0 +1,258 @@
+04/17/2018 12:45:12 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='international-overlay']//button[@type='button'] and locatorType: xpath
+04/17/2018 12:45:12 PM - OrderClothesPage - INFO: Clicked on element with locator: //div[@id='international-overlay']//button[@type='button'] locatorType: xpath
+04/17/2018 12:45:17 PM - OrderClothesPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+04/17/2018 12:45:17 PM - OrderClothesPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+04/17/2018 12:45:27 PM - OrderClothesPage - INFO: Element Found with locator: j_username and locatorType: id
+04/17/2018 12:45:27 PM - OrderClothesPage - INFO: cannot send data on element with locator: j_username locatorType: id
+04/17/2018 12:45:28 PM - OrderClothesPage - INFO: Element Found with locator: j_password and locatorType: id
+04/17/2018 12:45:28 PM - OrderClothesPage - INFO: cannot send data on element with locator: j_password locatorType: id
+04/17/2018 12:45:28 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+04/17/2018 12:45:28 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+04/17/2018 12:45:28 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+04/17/2018 12:45:28 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+04/17/2018 12:45:50 PM - OrderClothesPage - INFO: Element not found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+04/17/2018 12:45:50 PM - OrderClothesPage - INFO: Element not present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+04/17/2018 12:45:50 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+04/17/2018 12:48:39 PM - OrderClothesPage - INFO: Element not found with locator: //div[@id='international-overlay']//button[@type='button'] and locatorType: xpath
+04/17/2018 12:48:39 PM - OrderClothesPage - INFO: cannot click on element with locator: //div[@id='international-overlay']//button[@type='button'] locatorType: xpath
+04/17/2018 12:48:44 PM - OrderClothesPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+04/17/2018 12:48:46 PM - OrderClothesPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+04/17/2018 12:48:56 PM - OrderClothesPage - INFO: Element Found with locator: j_username and locatorType: id
+04/17/2018 12:48:56 PM - OrderClothesPage - INFO: cannot send data on element with locator: j_username locatorType: id
+04/17/2018 12:48:56 PM - OrderClothesPage - INFO: Element Found with locator: j_password and locatorType: id
+04/17/2018 12:48:56 PM - OrderClothesPage - INFO: cannot send data on element with locator: j_password locatorType: id
+04/17/2018 12:48:59 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+04/17/2018 12:48:59 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+04/17/2018 12:48:59 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+04/17/2018 12:48:59 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+04/17/2018 12:50:09 PM - OrderClothesPage - INFO: Element not found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+04/17/2018 12:50:09 PM - OrderClothesPage - INFO: Element not present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+04/17/2018 12:50:09 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+04/17/2018 12:50:10 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Login was successful.1523949609981.png
+04/17/2018 12:50:10 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+04/17/2018 12:50:10 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+04/17/2018 12:50:10 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath
+04/17/2018 12:50:10 PM - OrderClothesPage - INFO: Element Found with locator: header-nav-search-input and locatorType: id
+04/17/2018 12:50:11 PM - OrderClothesPage - INFO: Sent data on element with locator: header-nav-search-input locatorType: id
+04/17/2018 12:50:11 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+04/17/2018 12:50:23 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath
+04/17/2018 12:50:28 PM - OrderClothesPage - INFO: Element Found with locator: //div[@class='product-tiles-grid-item-image']//img[@alt='Gucci Cities cotton T-shirt'] and locatorType: xpath
+04/17/2018 12:50:29 PM - OrderClothesPage - INFO: Clicked on element with locator: //div[@class='product-tiles-grid-item-image']//img[@alt='Gucci Cities cotton T-shirt'] locatorType: xpath
+04/17/2018 12:50:49 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectric']//b[@class='button'] and locatorType: xpath
+04/17/2018 12:50:50 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectric']//b[@class='button'] locatorType: xpath
+04/17/2018 12:50:53 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectricScroll']//ul//li//span[text()='large'] and locatorType: xpath
+04/17/2018 12:50:53 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectricScroll']//ul//li//span[text()='large'] locatorType: xpath
+04/17/2018 12:50:53 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']/button and locatorType: xpath
+04/17/2018 12:50:54 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']/button locatorType: xpath
+04/17/2018 12:50:59 PM - OrderClothesPage - INFO: Element Found with locator: header-nav-bag-wrapper and locatorType: id
+04/17/2018 12:50:59 PM - OrderClothesPage - INFO: Clicked on element with locator: header-nav-bag-wrapper locatorType: id
+04/17/2018 12:51:04 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='page']//a[@class='button-standard'] and locatorType: xpath
+04/17/2018 12:51:05 PM - OrderClothesPage - INFO: cannot click on element with locator: //div[@id='page']//a[@class='button-standard'] locatorType: xpath
+04/17/2018 12:52:05 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[@class='label gold'] and locatorType: xpath
+04/17/2018 12:52:05 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[@class='label gold'] locatorType: xpath
+04/17/2018 12:52:57 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li//span[text()='MasterCard'] and locatorType: xpath
+04/17/2018 12:52:57 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li//span[text()='MasterCard'] locatorType: xpath
+04/17/2018 12:53:47 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-number and locatorType: id
+04/17/2018 12:53:47 PM - OrderClothesPage - INFO: cannot send data on element with locator: input-credit-card-number locatorType: id
+04/17/2018 12:54:37 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-code-new and locatorType: id
+04/17/2018 12:54:37 PM - OrderClothesPage - INFO: cannot send data on element with locator: input-credit-card-code-new locatorType: id
+04/17/2018 12:55:27 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-name and locatorType: id
+04/17/2018 12:55:27 PM - OrderClothesPage - INFO: cannot send data on element with locator: input-credit-card-name locatorType: id
+04/17/2018 12:56:17 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='MM'] and locatorType: xpath
+04/17/2018 12:56:17 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='MM'] locatorType: xpath
+04/17/2018 12:57:09 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='02'] and locatorType: xpath
+04/17/2018 12:57:09 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='02'] locatorType: xpath
+04/17/2018 12:57:59 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='YYYY'] and locatorType: xpath
+04/17/2018 12:57:59 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='YYYY'] locatorType: xpath
+04/17/2018 12:58:42 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='international-overlay']//button[@type='button'] and locatorType: xpath
+04/17/2018 12:58:43 PM - OrderClothesPage - INFO: Clicked on element with locator: //div[@id='international-overlay']//button[@type='button'] locatorType: xpath
+04/17/2018 12:58:48 PM - OrderClothesPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+04/17/2018 12:58:49 PM - OrderClothesPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+04/17/2018 12:58:52 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='2023'] and locatorType: xpath
+04/17/2018 12:58:52 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='2023'] locatorType: xpath
+04/17/2018 12:59:00 PM - OrderClothesPage - INFO: Element Found with locator: j_username and locatorType: id
+04/17/2018 12:59:00 PM - OrderClothesPage - INFO: Sent data on element with locator: j_username locatorType: id
+04/17/2018 12:59:00 PM - OrderClothesPage - INFO: Element Found with locator: j_password and locatorType: id
+04/17/2018 12:59:00 PM - OrderClothesPage - INFO: Sent data on element with locator: j_password locatorType: id
+04/17/2018 12:59:00 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+04/17/2018 12:59:01 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+04/17/2018 12:59:01 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+04/17/2018 12:59:01 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+04/17/2018 12:59:21 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+04/17/2018 12:59:21 PM - OrderClothesPage - INFO: Element present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+04/17/2018 12:59:21 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+04/17/2018 12:59:21 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+04/17/2018 12:59:21 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+04/17/2018 12:59:22 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath
+04/17/2018 12:59:22 PM - OrderClothesPage - INFO: Element Found with locator: header-nav-search-input and locatorType: id
+04/17/2018 12:59:22 PM - OrderClothesPage - INFO: Sent data on element with locator: header-nav-search-input locatorType: id
+04/17/2018 12:59:22 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+04/17/2018 12:59:31 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath
+04/17/2018 12:59:36 PM - OrderClothesPage - INFO: Element Found with locator: //div[@class='product-tiles-grid-item-image']//img[@alt='Gucci Cities cotton T-shirt'] and locatorType: xpath
+04/17/2018 12:59:37 PM - OrderClothesPage - INFO: Clicked on element with locator: //div[@class='product-tiles-grid-item-image']//img[@alt='Gucci Cities cotton T-shirt'] locatorType: xpath
+04/17/2018 12:59:42 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id = 'credit-card-order']//button[text()='Confirm Details'] and locatorType: xpath
+04/17/2018 12:59:42 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id = 'credit-card-order']//button[text()='Confirm Details'] locatorType: xpath
+04/17/2018 12:59:57 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectric']//b[@class='button'] and locatorType: xpath
+04/17/2018 12:59:58 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectric']//b[@class='button'] locatorType: xpath
+04/17/2018 01:00:01 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectricScroll']//ul//li//span[text()='large'] and locatorType: xpath
+04/17/2018 01:00:01 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectricScroll']//ul//li//span[text()='large'] locatorType: xpath
+04/17/2018 01:00:01 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']/button and locatorType: xpath
+04/17/2018 01:00:02 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']/button locatorType: xpath
+04/17/2018 01:00:07 PM - OrderClothesPage - INFO: Element Found with locator: header-nav-bag-wrapper and locatorType: id
+04/17/2018 01:00:07 PM - OrderClothesPage - INFO: Clicked on element with locator: header-nav-bag-wrapper locatorType: id
+04/17/2018 01:00:17 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='page']//a[@class='button-standard'] and locatorType: xpath
+04/17/2018 01:00:17 PM - OrderClothesPage - INFO: cannot click on element with locator: //div[@id='page']//a[@class='button-standard'] locatorType: xpath
+04/17/2018 01:00:38 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-number and locatorType: id
+04/17/2018 01:00:38 PM - OrderClothesPage - INFO: cannot click on element with locator: input-credit-card-number locatorType: id
+04/17/2018 01:01:17 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[@class='label gold'] and locatorType: xpath
+04/17/2018 01:01:17 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[@class='label gold'] locatorType: xpath
+04/17/2018 01:01:28 PM - OrderClothesPage - INFO: Element not found with locator: //div[@id='tooltip-credit-card-number']/div[contains(text(),'Please enter a valid card number')] and locatorType: xpath
+04/17/2018 01:01:28 PM - OrderClothesPage - INFO: Element not present with locator: //div[@id='tooltip-credit-card-number']/div[contains(text(),'Please enter a valid card number')] locatorType: xpath
+04/17/2018 01:01:28 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Order successfully created
+04/17/2018 01:01:28 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Order successfully created.1523950288221.png
+04/17/2018 01:01:28 PM - TestStatus - ERROR: test_validOrderCreation ### TEST FAILED
+04/17/2018 01:02:09 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li//span[text()='MasterCard'] and locatorType: xpath
+04/17/2018 01:02:09 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li//span[text()='MasterCard'] locatorType: xpath
+04/17/2018 01:02:59 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-number and locatorType: id
+04/17/2018 01:02:59 PM - OrderClothesPage - INFO: cannot send data on element with locator: input-credit-card-number locatorType: id
+04/17/2018 01:03:49 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-code-new and locatorType: id
+04/17/2018 01:03:49 PM - OrderClothesPage - INFO: cannot send data on element with locator: input-credit-card-code-new locatorType: id
+04/17/2018 01:04:39 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-name and locatorType: id
+04/17/2018 01:04:39 PM - OrderClothesPage - INFO: cannot send data on element with locator: input-credit-card-name locatorType: id
+04/17/2018 01:05:29 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='MM'] and locatorType: xpath
+04/17/2018 01:05:29 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='MM'] locatorType: xpath
+04/17/2018 01:06:21 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='02'] and locatorType: xpath
+04/17/2018 01:06:21 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='02'] locatorType: xpath
+04/17/2018 01:07:11 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='YYYY'] and locatorType: xpath
+04/17/2018 01:07:11 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='YYYY'] locatorType: xpath
+04/17/2018 01:08:03 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='2023'] and locatorType: xpath
+04/17/2018 01:08:03 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='2023'] locatorType: xpath
+04/17/2018 01:08:53 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id = 'credit-card-order']//button[text()='Confirm Details'] and locatorType: xpath
+04/17/2018 01:08:54 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id = 'credit-card-order']//button[text()='Confirm Details'] locatorType: xpath
+04/17/2018 01:09:50 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-number and locatorType: id
+04/17/2018 01:09:50 PM - OrderClothesPage - INFO: cannot click on element with locator: input-credit-card-number locatorType: id
+04/17/2018 01:10:40 PM - OrderClothesPage - INFO: Element not found with locator: //div[@id='tooltip-credit-card-number']/div[contains(text(),'Please enter a valid card number')] and locatorType: xpath
+04/17/2018 01:10:40 PM - OrderClothesPage - INFO: Element not present with locator: //div[@id='tooltip-credit-card-number']/div[contains(text(),'Please enter a valid card number')] locatorType: xpath
+04/17/2018 01:10:40 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Order successfully created
+04/17/2018 01:10:40 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Order successfully created.1523950840108.png
+04/17/2018 01:10:40 PM - TestStatus - ERROR: test_validOrderCreation ### TEST FAILED
+04/17/2018 05:56:15 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='international-overlay']//button[@type='button'] and locatorType: xpath
+04/17/2018 05:56:16 PM - OrderClothesPage - INFO: Clicked on element with locator: //div[@id='international-overlay']//button[@type='button'] locatorType: xpath
+04/17/2018 05:56:21 PM - OrderClothesPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+04/17/2018 05:56:22 PM - OrderClothesPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+04/17/2018 05:56:32 PM - OrderClothesPage - INFO: Element Found with locator: j_username and locatorType: id
+04/17/2018 05:56:32 PM - OrderClothesPage - INFO: Sent data on element with locator: j_username locatorType: id
+04/17/2018 05:56:32 PM - OrderClothesPage - INFO: Element Found with locator: j_password and locatorType: id
+04/17/2018 05:56:32 PM - OrderClothesPage - INFO: Sent data on element with locator: j_password locatorType: id
+04/17/2018 05:56:33 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+04/17/2018 05:56:33 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+04/17/2018 05:56:34 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+04/17/2018 05:56:34 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+04/17/2018 05:56:54 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+04/17/2018 05:56:54 PM - OrderClothesPage - INFO: Element present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+04/17/2018 05:56:54 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+04/17/2018 05:56:54 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+04/17/2018 05:56:54 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+04/17/2018 05:56:54 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath
+04/17/2018 05:56:54 PM - OrderClothesPage - INFO: Element Found with locator: header-nav-search-input and locatorType: id
+04/17/2018 05:56:55 PM - OrderClothesPage - INFO: Sent data on element with locator: header-nav-search-input locatorType: id
+04/17/2018 05:56:55 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+04/17/2018 05:57:02 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath
+04/17/2018 05:57:07 PM - OrderClothesPage - INFO: Element Found with locator: //div[@class='product-tiles-grid-item-image']//img[@alt='Gucci Cities cotton T-shirt'] and locatorType: xpath
+04/17/2018 05:57:08 PM - OrderClothesPage - INFO: Clicked on element with locator: //div[@class='product-tiles-grid-item-image']//img[@alt='Gucci Cities cotton T-shirt'] locatorType: xpath
+04/17/2018 05:57:28 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectric']//b[@class='button'] and locatorType: xpath
+04/17/2018 05:57:28 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectric']//b[@class='button'] locatorType: xpath
+04/17/2018 05:57:31 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectricScroll']//ul//li//span[text()='large'] and locatorType: xpath
+04/17/2018 05:57:31 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectricScroll']//ul//li//span[text()='large'] locatorType: xpath
+04/17/2018 05:57:31 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']/button and locatorType: xpath
+04/17/2018 05:57:32 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']/button locatorType: xpath
+04/17/2018 05:57:37 PM - OrderClothesPage - INFO: Element Found with locator: header-nav-bag-wrapper and locatorType: id
+04/17/2018 05:57:37 PM - OrderClothesPage - INFO: Clicked on element with locator: header-nav-bag-wrapper locatorType: id
+04/17/2018 05:57:43 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='page']//a[@class='button-standard'] and locatorType: xpath
+04/17/2018 05:57:44 PM - OrderClothesPage - INFO: cannot click on element with locator: //div[@id='page']//a[@class='button-standard'] locatorType: xpath
+04/17/2018 05:58:44 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[@class='label gold'] and locatorType: xpath
+04/17/2018 05:58:44 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[@class='label gold'] locatorType: xpath
+04/17/2018 05:59:36 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li//span[text()='MasterCard'] and locatorType: xpath
+04/17/2018 05:59:36 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li//span[text()='MasterCard'] locatorType: xpath
+04/17/2018 06:00:26 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-number and locatorType: id
+04/17/2018 06:00:26 PM - OrderClothesPage - INFO: cannot send data on element with locator: input-credit-card-number locatorType: id
+04/17/2018 06:01:16 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-code-new and locatorType: id
+04/17/2018 06:01:16 PM - OrderClothesPage - INFO: cannot send data on element with locator: input-credit-card-code-new locatorType: id
+04/17/2018 06:02:06 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-name and locatorType: id
+04/17/2018 06:02:06 PM - OrderClothesPage - INFO: cannot send data on element with locator: input-credit-card-name locatorType: id
+04/17/2018 06:02:56 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='MM'] and locatorType: xpath
+04/17/2018 06:02:56 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='MM'] locatorType: xpath
+04/17/2018 06:03:48 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='02'] and locatorType: xpath
+04/17/2018 06:03:48 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='02'] locatorType: xpath
+04/17/2018 06:04:38 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='YYYY'] and locatorType: xpath
+04/17/2018 06:04:38 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[text()='YYYY'] locatorType: xpath
+04/17/2018 06:05:30 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='2023'] and locatorType: xpath
+04/17/2018 06:05:30 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectricScroll']//ul//li[text()='2023'] locatorType: xpath
+04/17/2018 06:06:20 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id = 'credit-card-order']//button[text()='Confirm Details'] and locatorType: xpath
+04/17/2018 06:06:20 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id = 'credit-card-order']//button[text()='Confirm Details'] locatorType: xpath
+04/17/2018 06:07:16 PM - OrderClothesPage - INFO: Element not found with locator: input-credit-card-number and locatorType: id
+04/17/2018 06:07:16 PM - OrderClothesPage - INFO: cannot click on element with locator: input-credit-card-number locatorType: id
+04/17/2018 06:08:06 PM - OrderClothesPage - INFO: Element not found with locator: //div[@id='tooltip-credit-card-number']/div[contains(text(),'Please enter a valid card number')] and locatorType: xpath
+04/17/2018 06:08:06 PM - OrderClothesPage - INFO: Element not present with locator: //div[@id='tooltip-credit-card-number']/div[contains(text(),'Please enter a valid card number')] locatorType: xpath
+04/17/2018 06:08:06 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Order successfully created
+04/17/2018 06:08:06 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Order successfully created.1523968686591.png
+04/17/2018 06:08:06 PM - TestStatus - ERROR: test_validOrderCreation ### TEST FAILED
+04/17/2018 06:12:36 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='international-overlay']//button[@type='button'] and locatorType: xpath
+04/17/2018 06:12:36 PM - OrderClothesPage - INFO: Clicked on element with locator: //div[@id='international-overlay']//button[@type='button'] locatorType: xpath
+04/17/2018 06:12:41 PM - OrderClothesPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+04/17/2018 06:12:42 PM - OrderClothesPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+04/17/2018 06:12:52 PM - OrderClothesPage - INFO: Element Found with locator: j_username and locatorType: id
+04/17/2018 06:12:52 PM - OrderClothesPage - INFO: Sent data on element with locator: j_username locatorType: id
+04/17/2018 06:12:52 PM - OrderClothesPage - INFO: Element Found with locator: j_password and locatorType: id
+04/17/2018 06:12:52 PM - OrderClothesPage - INFO: Sent data on element with locator: j_password locatorType: id
+04/17/2018 06:12:52 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+04/17/2018 06:12:52 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+04/17/2018 06:12:52 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+04/17/2018 06:12:58 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+04/17/2018 06:13:18 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+04/17/2018 06:13:18 PM - OrderClothesPage - INFO: Element present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+04/17/2018 06:13:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+04/17/2018 06:13:18 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+04/17/2018 06:13:18 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+04/17/2018 06:13:19 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath
+04/17/2018 06:13:19 PM - OrderClothesPage - INFO: Element Found with locator: header-nav-search-input and locatorType: id
+04/17/2018 06:13:19 PM - OrderClothesPage - INFO: Sent data on element with locator: header-nav-search-input locatorType: id
+04/17/2018 06:13:19 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+04/17/2018 06:13:29 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath
+04/17/2018 06:13:34 PM - OrderClothesPage - INFO: Element Found with locator: //div[@class='product-tiles-grid-item-image']//img[@alt='Gucci Cities cotton T-shirt'] and locatorType: xpath
+04/17/2018 06:13:34 PM - OrderClothesPage - INFO: Clicked on element with locator: //div[@class='product-tiles-grid-item-image']//img[@alt='Gucci Cities cotton T-shirt'] locatorType: xpath
+04/17/2018 06:13:54 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectric']//b[@class='button'] and locatorType: xpath
+04/17/2018 06:13:55 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectric']//b[@class='button'] locatorType: xpath
+04/17/2018 06:13:58 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectricScroll']//ul//li//span[text()='large'] and locatorType: xpath
+04/17/2018 06:13:58 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']//div[@class='selectricScroll']//ul//li//span[text()='large'] locatorType: xpath
+04/17/2018 06:13:58 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='product-detail-add-to-shopping-bag-form']/button and locatorType: xpath
+04/17/2018 06:13:58 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='product-detail-add-to-shopping-bag-form']/button locatorType: xpath
+04/17/2018 06:14:13 PM - OrderClothesPage - INFO: Element Found with locator: header-nav-bag-wrapper and locatorType: id
+04/17/2018 06:14:14 PM - OrderClothesPage - INFO: Clicked on element with locator: header-nav-bag-wrapper locatorType: id
+04/17/2018 06:14:22 PM - OrderClothesPage - INFO: Element Found with locator: //div[@id='page']//a[@class='button-standard'] and locatorType: xpath
+04/17/2018 06:14:22 PM - OrderClothesPage - INFO: cannot click on element with locator: //div[@id='page']//a[@class='button-standard'] locatorType: xpath
+04/17/2018 06:15:05 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[@class='label gold'] and locatorType: xpath
+04/17/2018 06:15:05 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='credit-card-order']//div[@class='selectric']//p[@class='label gold'] locatorType: xpath
+05/14/2018 02:34:37 PM - OrderClothesPage - INFO: Element not found with locator: //div[@id='international-overlay']//button[@type='button'] and locatorType: xpath
+05/14/2018 02:34:37 PM - OrderClothesPage - INFO: cannot click on element with locator: //div[@id='international-overlay']//button[@type='button'] locatorType: xpath
+05/14/2018 02:34:42 PM - OrderClothesPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+05/14/2018 02:34:44 PM - OrderClothesPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+05/14/2018 02:34:54 PM - OrderClothesPage - INFO: Element Found with locator: j_username and locatorType: id
+05/14/2018 02:34:54 PM - OrderClothesPage - INFO: cannot send data on element with locator: j_username locatorType: id
+05/14/2018 02:34:54 PM - OrderClothesPage - INFO: Element Found with locator: j_password and locatorType: id
+05/14/2018 02:34:54 PM - OrderClothesPage - INFO: cannot send data on element with locator: j_password locatorType: id
+05/14/2018 02:34:57 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+05/14/2018 02:34:57 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+05/14/2018 02:34:57 PM - OrderClothesPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+05/14/2018 02:34:58 PM - OrderClothesPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+05/14/2018 02:35:18 PM - OrderClothesPage - INFO: Element not found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+05/14/2018 02:35:18 PM - OrderClothesPage - INFO: Element not present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+05/14/2018 02:35:18 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+05/14/2018 02:35:18 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+05/14/2018 02:35:18 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+05/14/2018 02:35:18 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+05/14/2018 02:35:18 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath
+05/14/2018 02:35:18 PM - OrderClothesPage - INFO: Element not found with locator: header-nav-search-input and locatorType: id
+05/14/2018 02:35:18 PM - OrderClothesPage - INFO: cannot send data on element with locator: header-nav-search-input locatorType: id
+05/14/2018 02:35:18 PM - OrderClothesPage - INFO: Element not found with locator: //form[@id='header-nav-search']/input[@type = 'submit'] and locatorType: xpath
+05/14/2018 02:35:18 PM - OrderClothesPage - INFO: cannot click on element with locator: //form[@id='header-nav-search']/input[@type = 'submit'] locatorType: xpath

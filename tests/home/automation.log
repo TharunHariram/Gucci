@@ -1,0 +1,264 @@
+03/09/2018 03:56:30 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 03:56:32 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 03:56:42 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 03:56:44 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 03:56:44 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 03:56:44 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 03:56:44 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 03:56:44 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 03:56:44 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 03:56:45 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 03:56:55 PM - LoginPage - INFO: Element Found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+03/09/2018 03:56:55 PM - LoginPage - INFO: Element Found
+03/09/2018 03:57:00 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 03:57:02 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 03:57:12 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 03:57:14 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 03:57:14 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 03:57:14 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 03:57:14 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 03:57:14 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 03:57:14 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 03:57:14 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 03:57:14 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+03/09/2018 03:57:19 PM - LoginPage - INFO: Element Found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+03/09/2018 03:57:19 PM - LoginPage - INFO: Element Found
+03/09/2018 03:57:19 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+03/09/2018 03:57:19 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+03/09/2018 04:44:07 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 04:44:16 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 04:44:26 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 04:44:27 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 04:44:27 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 04:44:28 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 04:44:28 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 04:44:33 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 04:44:33 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 04:44:38 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 04:44:48 PM - LoginPage - INFO: Element Found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+03/09/2018 04:44:48 PM - LoginPage - INFO: Element Found
+03/09/2018 04:44:53 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 04:44:58 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 04:45:08 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 04:45:09 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 04:45:09 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 04:45:10 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 04:45:10 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 04:45:15 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 04:45:15 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 04:45:20 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 04:52:53 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 04:52:55 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 04:53:05 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 04:53:07 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 04:53:07 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 04:53:07 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 04:53:07 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 04:53:08 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 04:53:08 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 04:53:08 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 04:53:18 PM - LoginPage - INFO: Element Found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+03/09/2018 04:53:18 PM - LoginPage - INFO: Element Found
+03/09/2018 04:53:23 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 04:53:26 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 04:53:36 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 04:53:37 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 04:53:37 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 04:53:38 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 04:53:38 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 04:53:38 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 04:53:38 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 04:53:38 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 04:56:56 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 04:56:59 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 04:57:09 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 04:57:10 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 04:57:10 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 04:57:11 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 04:57:11 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 04:57:11 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 04:57:11 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 04:57:11 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 04:57:21 PM - LoginPage - INFO: Element Found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+03/09/2018 04:57:21 PM - LoginPage - INFO: Element Found
+03/09/2018 04:57:26 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 04:57:29 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 04:57:39 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 04:57:40 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 04:57:40 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 04:57:41 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 04:57:41 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 04:57:41 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 04:57:41 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 04:57:41 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 04:57:41 PM - Util - INFO: Actual Text From Application Web UI --> :: Gucci Official Site United States
+03/09/2018 04:57:41 PM - Util - INFO: Expected Text From Application Web UI --> :: Gucci Official Site---
+03/09/2018 04:57:41 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAINS !!!
+03/09/2018 04:57:41 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Verified
+03/09/2018 04:57:41 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Title Verified.1520594861313.png
+03/09/2018 04:57:45 PM - LoginPage - INFO: Element Found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+03/09/2018 04:57:45 PM - LoginPage - INFO: Element Found
+03/09/2018 04:57:45 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+03/09/2018 04:57:45 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+03/09/2018 05:02:13 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 05:02:26 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 05:02:36 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 05:02:38 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 05:02:38 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 05:02:39 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 05:02:39 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 05:02:39 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 05:02:39 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 05:02:39 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 05:02:49 PM - LoginPage - INFO: Element Found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+03/09/2018 05:02:49 PM - LoginPage - INFO: Element Found
+03/09/2018 05:02:54 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 05:02:58 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 05:03:08 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 05:03:09 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 05:03:09 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 05:03:10 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 05:03:10 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 05:03:10 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 05:03:10 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 05:03:10 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 05:03:10 PM - Util - INFO: Actual Text From Application Web UI --> :: Gucci Official Site United States
+03/09/2018 05:03:10 PM - Util - INFO: Expected Text From Application Web UI --> :: Gucci Official Site
+03/09/2018 05:03:10 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+03/09/2018 05:03:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+03/09/2018 05:03:19 PM - LoginPage - INFO: Element Found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+03/09/2018 05:03:19 PM - LoginPage - INFO: Element Found
+03/09/2018 05:03:19 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+03/09/2018 05:03:19 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+03/09/2018 06:39:27 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 06:39:30 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 06:39:40 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/09/2018 06:39:42 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/09/2018 06:39:42 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/09/2018 06:39:42 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/09/2018 06:39:42 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 06:39:42 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 06:39:42 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 06:39:42 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 06:40:33 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 06:40:33 PM - LoginPage - INFO: cannot click on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 06:40:43 PM - LoginPage - INFO: Element not found with locator: j_username and locatorType: id
+03/09/2018 06:40:43 PM - LoginPage - INFO: cannot send data on element with locator: j_username locatorType: id
+03/09/2018 06:40:43 PM - LoginPage - INFO: Element not found with locator: j_password and locatorType: id
+03/09/2018 06:40:43 PM - LoginPage - INFO: cannot send data on element with locator: j_password locatorType: id
+03/09/2018 06:40:43 PM - LoginPage - INFO: Element not found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 06:40:43 PM - LoginPage - INFO: cannot click on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 06:40:43 PM - LoginPage - INFO: Element not found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 06:40:43 PM - LoginPage - INFO: cannot click on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 06:40:53 PM - LoginPage - INFO: Element not found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+03/09/2018 06:40:53 PM - LoginPage - INFO: Element not present with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] locatorType: xpath
+03/09/2018 06:40:58 PM - LoginPage - INFO: Element not found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/09/2018 06:40:58 PM - LoginPage - INFO: cannot click on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/09/2018 06:41:08 PM - LoginPage - INFO: Element not found with locator: j_username and locatorType: id
+03/09/2018 06:41:08 PM - LoginPage - INFO: cannot send data on element with locator: j_username locatorType: id
+03/09/2018 06:41:08 PM - LoginPage - INFO: Element not found with locator: j_password and locatorType: id
+03/09/2018 06:41:08 PM - LoginPage - INFO: cannot send data on element with locator: j_password locatorType: id
+03/09/2018 06:41:08 PM - LoginPage - INFO: Element not found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/09/2018 06:41:08 PM - LoginPage - INFO: cannot click on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/09/2018 06:41:08 PM - LoginPage - INFO: Element not found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/09/2018 06:41:08 PM - LoginPage - INFO: cannot click on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/09/2018 06:41:08 PM - LoginPage - ERROR: Failed to get page title
+03/09/2018 06:41:08 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Verified
+03/09/2018 06:41:08 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+03/09/2018 06:41:08 PM - LoginPage - INFO: Element not found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+03/09/2018 06:41:08 PM - LoginPage - INFO: Element not present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+03/09/2018 06:41:08 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+03/09/2018 06:41:08 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+03/09/2018 06:41:08 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+03/10/2018 11:49:21 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/10/2018 11:49:24 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/10/2018 11:49:34 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/10/2018 11:49:36 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/10/2018 11:49:36 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/10/2018 11:49:37 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/10/2018 11:49:37 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/10/2018 11:49:37 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/10/2018 11:49:37 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/10/2018 11:49:38 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/10/2018 11:49:48 PM - LoginPage - INFO: Element Found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+03/10/2018 11:49:48 PM - LoginPage - INFO: Element present with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] locatorType: xpath
+03/10/2018 11:49:53 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+03/10/2018 11:49:53 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+03/10/2018 11:50:03 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+03/10/2018 11:50:05 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+03/10/2018 11:50:05 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+03/10/2018 11:50:05 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+03/10/2018 11:50:05 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+03/10/2018 11:50:05 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+03/10/2018 11:50:05 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+03/10/2018 11:50:06 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+03/10/2018 11:50:09 PM - Util - INFO: Actual Text From Application Web UI --> :: Gucci Official Site United States
+03/10/2018 11:50:09 PM - Util - INFO: Expected Text From Application Web UI --> :: Gucci Official Site
+03/10/2018 11:50:09 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+03/10/2018 11:50:09 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+03/10/2018 11:50:09 PM - LoginPage - INFO: Element Found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+03/10/2018 11:50:09 PM - LoginPage - INFO: Element present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+03/10/2018 11:50:09 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+03/10/2018 11:50:09 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+04/04/2018 12:51:10 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+04/04/2018 12:51:13 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+04/04/2018 12:51:23 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+04/04/2018 12:51:23 PM - LoginPage - INFO: cannot send data on element with locator: j_username locatorType: id
+04/04/2018 12:51:23 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+04/04/2018 12:51:23 PM - LoginPage - INFO: cannot send data on element with locator: j_password locatorType: id
+04/04/2018 12:51:23 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+04/04/2018 12:51:23 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+04/04/2018 12:51:23 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+04/04/2018 12:51:23 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+04/04/2018 12:51:33 PM - LoginPage - INFO: Element Found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+04/04/2018 12:51:33 PM - LoginPage - INFO: Element present with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] locatorType: xpath
+04/04/2018 12:51:38 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+04/04/2018 12:51:41 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+04/04/2018 12:51:51 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+04/04/2018 12:51:51 PM - LoginPage - INFO: cannot send data on element with locator: j_username locatorType: id
+04/04/2018 12:51:51 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+04/04/2018 12:51:51 PM - LoginPage - INFO: cannot send data on element with locator: j_password locatorType: id
+04/04/2018 12:51:51 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+04/04/2018 12:51:52 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+04/04/2018 12:51:52 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+04/04/2018 12:51:52 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+04/04/2018 12:51:52 PM - Util - INFO: Actual Text From Application Web UI --> :: Gucci Official Site United States
+04/04/2018 12:51:52 PM - Util - INFO: Expected Text From Application Web UI --> :: Gucci Official Site
+04/04/2018 12:51:52 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/04/2018 12:51:52 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+04/04/2018 12:52:42 PM - LoginPage - INFO: Element not found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+04/04/2018 12:52:42 PM - LoginPage - INFO: Element not present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+04/04/2018 12:52:42 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+04/04/2018 12:52:42 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Login was successful.1522826562407.png
+04/04/2018 12:52:42 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+04/04/2018 12:53:32 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+04/04/2018 12:53:34 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+04/04/2018 12:53:44 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+04/04/2018 12:53:44 PM - LoginPage - INFO: cannot send data on element with locator: j_username locatorType: id
+04/04/2018 12:53:44 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+04/04/2018 12:53:44 PM - LoginPage - INFO: cannot send data on element with locator: j_password locatorType: id
+04/04/2018 12:53:44 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+04/04/2018 12:53:45 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+04/04/2018 12:53:45 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+04/04/2018 12:53:45 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+04/04/2018 12:53:55 PM - LoginPage - INFO: Element Found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+04/04/2018 12:53:55 PM - LoginPage - INFO: Element present with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] locatorType: xpath
+04/04/2018 12:54:00 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+04/04/2018 12:54:00 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+04/04/2018 12:54:10 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+04/04/2018 12:54:10 PM - LoginPage - INFO: cannot send data on element with locator: j_username locatorType: id
+04/04/2018 12:54:10 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+04/04/2018 12:54:10 PM - LoginPage - INFO: cannot send data on element with locator: j_password locatorType: id
+04/04/2018 12:54:10 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+04/04/2018 12:54:10 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+04/04/2018 12:54:10 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+04/04/2018 12:54:10 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+04/04/2018 12:54:10 PM - Util - INFO: Actual Text From Application Web UI --> :: Gucci Official Site United States
+04/04/2018 12:54:10 PM - Util - INFO: Expected Text From Application Web UI --> :: Gucci Official Site
+04/04/2018 12:54:10 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+04/04/2018 12:54:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+04/04/2018 12:55:00 PM - LoginPage - INFO: Element not found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+04/04/2018 12:55:00 PM - LoginPage - INFO: Element not present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+04/04/2018 12:55:00 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+04/04/2018 12:55:01 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Login was successful.1522826700980.png
+04/04/2018 12:55:01 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED

@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="08de7b06-d1fe-4486-8837-f5abfcb1b045" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/automation.log" afterPath="$PROJECT_DIR$/tests/automation.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/geckodriver.log" afterPath="$PROJECT_DIR$/tests/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/home/login_tests.py" afterPath="$PROJECT_DIR$/tests/home/login_tests.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -270,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531314146433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test commit successful">
+      <created>1531818808115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531818808115</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">

@@ -4,3 +4,33 @@
 05/14/2018 03:51:21 PM - LoginPage - INFO: cannot send data on element with locator: j_username locatorType: id
 05/14/2018 03:51:21 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
 05/14/2018 03:51:21 PM - LoginPage - INFO: cannot send data on element with locator: j_password locatorType: id
+07/11/2018 06:55:31 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+07/11/2018 06:55:32 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+07/11/2018 06:56:32 PM - LoginPage - INFO: Element not found with locator: j_username and locatorType: id
+07/11/2018 06:56:32 PM - LoginPage - INFO: cannot send data on element with locator: j_username locatorType: id
+07/11/2018 06:57:22 PM - LoginPage - INFO: Element not found with locator: j_password and locatorType: id
+07/11/2018 06:57:22 PM - LoginPage - INFO: cannot send data on element with locator: j_password locatorType: id
+07/11/2018 06:58:12 PM - LoginPage - INFO: Element not found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+07/11/2018 06:58:12 PM - LoginPage - INFO: cannot click on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+07/11/2018 06:58:29 PM - LoginPage - INFO: Element not found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+07/11/2018 06:58:29 PM - LoginPage - INFO: cannot click on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+07/11/2018 06:58:59 PM - LoginPage - INFO: Element not found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+07/11/2018 06:58:59 PM - LoginPage - INFO: Element not present with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] locatorType: xpath
+07/11/2018 06:59:24 PM - LoginPage - INFO: Element not found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+07/11/2018 06:59:24 PM - LoginPage - INFO: cannot click on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+07/11/2018 06:59:34 PM - LoginPage - INFO: Element not found with locator: j_username and locatorType: id
+07/11/2018 06:59:34 PM - LoginPage - INFO: cannot send data on element with locator: j_username locatorType: id
+07/11/2018 06:59:34 PM - LoginPage - INFO: Element not found with locator: j_password and locatorType: id
+07/11/2018 06:59:34 PM - LoginPage - INFO: cannot send data on element with locator: j_password locatorType: id
+07/11/2018 06:59:34 PM - LoginPage - INFO: Element not found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+07/11/2018 06:59:34 PM - LoginPage - INFO: cannot click on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+07/11/2018 06:59:34 PM - LoginPage - INFO: Element not found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+07/11/2018 06:59:34 PM - LoginPage - INFO: cannot click on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+07/11/2018 06:59:54 PM - LoginPage - ERROR: Failed to get page title
+07/11/2018 06:59:54 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Verified
+07/11/2018 06:59:54 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+07/11/2018 06:59:55 PM - LoginPage - INFO: Element not found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+07/11/2018 06:59:55 PM - LoginPage - INFO: Element not present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+07/11/2018 06:59:55 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+07/11/2018 06:59:55 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+07/11/2018 06:59:55 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED

@@ -1,0 +1,4 @@
+[
+  "home/login_tests.py::LoginTests::test_invalidlogin",
+  "home/login_tests.py::LoginTests::test_validlogin"
+]

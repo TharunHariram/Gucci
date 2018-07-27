@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pages
 import utilities
-from https://github.com/TharunHariram/Gucci/tree/master/pages/pages.home.login_page import LoginPage
+from pages.home.login_page import LoginPage
 from utilities.teststatus import TestStatus
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import unittest
@@ -10,6 +10,7 @@ import pytest
 import time
 
 # comment to check in GIT 13
+# comment to check on Jenkins
 
 @pytest.mark.usefixtures("oneTimeSetUp", "setUp")
 class LoginTests(unittest.TestCase):

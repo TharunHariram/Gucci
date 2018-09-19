@@ -19,6 +19,8 @@ class HomePage(LoginPage):
 
     _header_id = "header-main"
     _footer_id = "footer-main"
+    _search_icon = "js-search-bar-btn"
+    _search_field = "header-nav-search-input"
 
     def verifyHeaderPresent(self):
         result = self.isElementPresent(self._header_id, locatorType="id")
@@ -26,6 +28,10 @@ class HomePage(LoginPage):
 
     def verifyFooterPresent(self):
         result = self.isElementPresent(self._footer_id, locatorType='id')
+        return result
+
+    def verifyHeaderSearch(self):
+        result = self.isElementPresent(self._search_icon, locatorType='class')
         return result
 
 

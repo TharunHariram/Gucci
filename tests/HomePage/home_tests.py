@@ -33,3 +33,12 @@ class HomePageTests(unittest.TestCase):
         self.sd.screenShot(resultMessage='Footer Present')
         self.ts.markFinal("test_validLoad", result1, "Header Successfully present")
         self.ts.markFinal("test_validLoad", result2, "Footer Successfully present")
+
+    @pytest.mark.run(order=2)
+    def test_verifyHeaderSearch(self):
+        result3 = self.hp.verifyHeaderSearch()
+        assert result3
+        self.sd.screenShot(resultMessage="Header Search Present")
+        time.sleep(10)
+        self.ts.markFinal("test_verifyHeaderSearch", result3, "Header Search Successfully present")
+

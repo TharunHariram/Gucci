@@ -1,4 +1,3 @@
 {
-  "home_tests.py::HomePageTests::test_validload": true,
   "home_tests.py::TestStatus": true
 }

@@ -107,3 +107,48 @@
 09/19/2018 04:56:44 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
 09/19/2018 04:56:44 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
 09/19/2018 04:56:44 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 06:23:09 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 06:23:09 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 06:23:10 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Header Present.1537361589404.png
+09/19/2018 06:23:20 PM - HomePage - INFO: Scrolled to Bottom of the page
+09/19/2018 06:23:20 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 06:23:20 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 06:23:20 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Present.1537361600087.png
+09/19/2018 06:23:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 06:23:20 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 06:23:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 06:23:20 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 07:07:22 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 07:07:22 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 07:07:23 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Header Present.1537364242684.png
+09/19/2018 07:07:33 PM - HomePage - INFO: Scrolled to Bottom of the page
+09/19/2018 07:07:33 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 07:07:33 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 07:07:34 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Present.1537364253863.png
+09/19/2018 07:07:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 07:07:34 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 07:07:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 07:07:34 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 07:08:24 PM - HomePage - INFO: Element not found with locator: header-nav-search-input and locatorType: class
+09/19/2018 07:08:24 PM - HomePage - INFO: Element not present with locator: header-nav-search-input locatorType: class
+09/19/2018 07:13:57 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 07:13:57 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 07:13:57 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Header Present.1537364637387.png
+09/19/2018 07:14:08 PM - HomePage - INFO: Scrolled to Bottom of the page
+09/19/2018 07:14:08 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 07:14:08 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 07:14:08 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Present.1537364648065.png
+09/19/2018 07:14:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 07:14:08 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 07:14:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 07:14:08 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 07:15:31 PM - HomePage - INFO: Element Found with locator: js-search-bar-btn and locatorType: class
+09/19/2018 07:15:31 PM - HomePage - INFO: Element present with locator: js-search-bar-btn locatorType: class
+09/19/2018 07:15:32 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Header Search Present.1537364731705.png
+09/19/2018 07:15:32 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Search Successfully present
+09/19/2018 07:15:32 PM - TestStatus - INFO: test_verifyHeaderSearch ### TEST SUCCESSFUL
+09/19/2018 07:16:58 PM - HomePage - INFO: Element Found with locator: js-search-bar-btn and locatorType: class
+09/19/2018 07:16:58 PM - HomePage - INFO: Element present with locator: js-search-bar-btn locatorType: class
+09/19/2018 07:16:58 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Header Search Present.1537364818414.png
+09/19/2018 07:17:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Search Successfully present
+09/19/2018 07:17:08 PM - TestStatus - INFO: test_verifyHeaderSearch ### TEST SUCCESSFUL

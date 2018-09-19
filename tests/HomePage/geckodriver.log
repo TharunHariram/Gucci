@@ -357,3 +357,82 @@ JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/re
 http://requirejs.org/docs/errors.html#scripterror
 JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "reel"
 http://requirejs.org/docs/errors.html#scripterror
+[Parent 17060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1537361531504	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\thariram\\AppData\\Local\\Temp\\rust_mozprofile.aA4orZtW503Z"
+1537361535418	Marionette	INFO	Listening on port 51034
+1537361535769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537361535830	Marionette	DEBUG	[6442450945] Frame script loaded
+1537361535873	Marionette	DEBUG	[6442450945] Frame script registered
+1537361535973	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537361551212	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537361556792	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gucci.com/us/en/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537361589284	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gucci.com/us/en/
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 564: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 615: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 1669: unreachable code after return statement
+1537361600329	Marionette	INFO	Stopped listening on port 51034
+[Child 2856, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1537364113415	geckodriver	INFO	geckodriver 0.19.1
+1537364113439	geckodriver	INFO	Listening on 127.0.0.1:56612
+1537364116519	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\thariram\\AppData\\Local\\Temp\\rust_mozprofile.BThfbsAes9SW"
+1537364125756	Marionette	INFO	Listening on port 56625
+1537364126462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537364126689	Marionette	DEBUG	[6442450945] Frame script loaded
+1537364126718	Marionette	DEBUG	[6442450945] Frame script registered
+1537364127308	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537364131159	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537364181490	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gucci.com/us/en/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537364242584	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gucci.com/us/en/
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 564: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 615: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 1669: unreachable code after return statement
+1537364304461	Marionette	INFO	Stopped listening on port 56625
+1537364448953	geckodriver	INFO	geckodriver 0.19.1
+1537364448972	geckodriver	INFO	Listening on 127.0.0.1:57321
+1537364452064	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\thariram\\AppData\\Local\\Temp\\rust_mozprofile.k8ZNTGvbkz3F"
+1537364468888	Marionette	INFO	Listening on port 57334
+1537364468917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537364468972	Marionette	DEBUG	[6442450945] Frame script loaded
+1537364469000	Marionette	DEBUG	[6442450945] Frame script registered
+1537364469276	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537364474622	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537364519720	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gucci.com/us/en/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537364637277	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gucci.com/us/en/
+1537364648313	Marionette	INFO	Stopped listening on port 57334
+[Child 17920, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1537364683998	geckodriver	INFO	geckodriver 0.19.1
+1537364684015	geckodriver	INFO	Listening on 127.0.0.1:65344
+1537364687088	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\thariram\\AppData\\Local\\Temp\\rust_mozprofile.2Ekd6V6OfVkD"
+1537364691991	Marionette	INFO	Listening on port 65357
+1537364692398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537364692461	Marionette	DEBUG	[6442450945] Frame script loaded
+1537364692480	Marionette	DEBUG	[6442450945] Frame script registered
+1537364692562	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537364696424	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537364703542	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gucci.com/us/en/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537364731593	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gucci.com/us/en/
+1537364732342	Marionette	INFO	Stopped listening on port 65357
+1537364768962	geckodriver	INFO	geckodriver 0.19.1
+1537364768979	geckodriver	INFO	Listening on 127.0.0.1:49213
+1537364772085	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\thariram\\AppData\\Local\\Temp\\rust_mozprofile.piHmqos16Jjm"
+1537364776822	Marionette	INFO	Listening on port 49225
+1537364777389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537364777470	Marionette	DEBUG	[6442450945] Frame script loaded
+1537364777507	Marionette	DEBUG	[6442450945] Frame script registered
+1537364777608	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537364782362	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537364789400	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gucci.com/us/en/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537364818309	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gucci.com/us/en/
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 564: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 615: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 1669: unreachable code after return statement
+1537364828956	Marionette	INFO	Stopped listening on port 49225

@@ -1,0 +1,109 @@
+09/19/2018 03:30:26 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 03:30:26 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 03:33:08 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 03:33:08 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 03:33:08 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 03:33:08 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 03:34:04 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 03:34:04 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 03:34:54 PM - HomePage - INFO: Element not found with locator: footer-main1 and locatorType: id
+09/19/2018 03:34:54 PM - HomePage - INFO: Element not present with locator: footer-main1 locatorType: id
+09/19/2018 03:36:17 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 03:36:17 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 03:36:17 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 03:36:17 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 03:37:02 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 03:37:02 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 03:37:52 PM - HomePage - INFO: Element not found with locator: footer-main1 and locatorType: id
+09/19/2018 03:37:52 PM - HomePage - INFO: Element not present with locator: footer-main1 locatorType: id
+09/19/2018 03:43:01 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 03:43:01 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 03:43:51 PM - HomePage - INFO: Element not found with locator: footer-main1 and locatorType: id
+09/19/2018 03:43:51 PM - HomePage - INFO: Element not present with locator: footer-main1 locatorType: id
+09/19/2018 03:44:29 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 03:44:29 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 03:44:29 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 03:44:29 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 03:44:30 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/footer not present.1537352069949.png
+09/19/2018 04:04:47 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 04:04:47 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 04:04:47 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:04:47 PM - HomePage - INFO: cannot click on element with locator: footer-main locatorType: id
+09/19/2018 04:04:47 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:04:47 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 04:04:48 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Not Present.1537353287836.png
+09/19/2018 04:04:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 04:04:48 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:04:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 04:04:48 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:07:34 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 04:07:34 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 04:07:34 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:07:34 PM - HomePage - INFO: cannot click on element with locator: footer-main locatorType: id
+09/19/2018 04:07:34 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:07:34 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 04:07:35 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Not Present.1537353454765.png
+09/19/2018 04:07:35 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 04:07:35 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:07:35 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 04:07:35 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:11:13 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 04:11:13 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 04:11:23 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:11:23 PM - HomePage - INFO: cannot click on element with locator: footer-main locatorType: id
+09/19/2018 04:11:33 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:11:33 PM - HomePage - INFO: cannot click on element with locator: footer-main locatorType: id
+09/19/2018 04:11:33 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:11:33 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 04:11:33 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Not Present.1537353693282.png
+09/19/2018 04:11:33 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 04:11:33 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:11:33 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 04:11:33 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:26:46 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 04:26:46 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 04:26:56 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:26:56 PM - HomePage - INFO: cannot click on element with locator: footer-main locatorType: id
+09/19/2018 04:27:06 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:27:06 PM - HomePage - INFO: cannot click on element with locator: footer-main locatorType: id
+09/19/2018 04:27:06 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:27:06 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 04:27:06 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Not Present.1537354626117.png
+09/19/2018 04:27:06 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 04:27:06 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:27:06 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 04:27:06 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:38:20 PM - HomePage - INFO: Element not found with locator: header-main and locatorType: id
+09/19/2018 04:38:20 PM - HomePage - INFO: Element not present with locator: header-main locatorType: id
+09/19/2018 04:47:26 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 04:47:26 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 04:47:36 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:47:36 PM - HomePage - INFO: cannot click on element with locator: footer-main locatorType: id
+09/19/2018 04:47:36 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:47:36 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 04:47:37 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Not Present.1537355856816.png
+09/19/2018 04:47:37 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 04:47:37 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:47:37 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 04:47:37 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:50:06 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 04:50:06 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 04:50:16 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:50:16 PM - HomePage - INFO: cannot click on element with locator: footer-main locatorType: id
+09/19/2018 04:50:16 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:50:16 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 04:50:16 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Not Present.1537356016305.png
+09/19/2018 04:50:16 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 04:50:16 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:50:16 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 04:50:16 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:56:34 PM - HomePage - INFO: Element Found with locator: header-main and locatorType: id
+09/19/2018 04:56:34 PM - HomePage - INFO: Element present with locator: header-main locatorType: id
+09/19/2018 04:56:44 PM - HomePage - INFO: Scrolled to Bottom of the page
+09/19/2018 04:56:44 PM - HomePage - INFO: Element Found with locator: footer-main and locatorType: id
+09/19/2018 04:56:44 PM - HomePage - INFO: Element present with locator: footer-main locatorType: id
+09/19/2018 04:56:44 PM - SeleniumDriver - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Footer Not Present.1537356404176.png
+09/19/2018 04:56:44 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Header Successfully present
+09/19/2018 04:56:44 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL
+09/19/2018 04:56:44 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Footer Successfully present
+09/19/2018 04:56:44 PM - TestStatus - INFO: test_validLoad ### TEST SUCCESSFUL

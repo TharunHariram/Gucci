@@ -2943,3 +2943,252 @@ IPDL protocol error: Handler returned error code!
 
 [GPU 1328] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 1531222274105	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537335241908	geckodriver	INFO	geckodriver 0.19.1
+1537335241955	geckodriver	INFO	Listening on 127.0.0.1:51316
+1537335245147	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\thariram\\AppData\\Local\\Temp\\rust_mozprofile.WAI2h8bQvEVn"
+1537335251072	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1537335252619	Marionette	INFO	Enabled via --marionette
+[GPU 12356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537335259548	Marionette	INFO	Listening on port 51324
+1537335259733	Marionette	INFO	Listening on port 51324
+1537335259807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537335259916	Marionette	DEBUG	loaded listener.js
+1537335260138	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1537335262933	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1537335262934	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1537335272869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/"
+1537335276770	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+1537335276937	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537335284579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=693384575880;gtm=G9c;auiddc=1040831345.1537335277;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1537335284585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=6121212845785;gtm=G9c;auiddc=1040831345.1537335277;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1537335291873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=693384575880;gtm=G9c;auiddc=1040831345.1537335277;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1537335291877	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=home;ord=1;num=693384575880;gtm=G9c;auiddc=1040831345.1537335277;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1537335291880	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=home;ord=1;num=693384575880;gtm=G9c;auiddc=1040831345.1537335277;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1537335291881	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=6121212845785;gtm=G9c;auiddc=1040831345.1537335277;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1537335291883	Marionette	DEBUG	Received DOM event "pageshow" for "https://adservice.google.com/ddm/fls/i/src=4565108;type=visit;cat=arrival;ord=1;num=6121212845785;gtm=G9c;auiddc=1040831345.1537335277;u1=us;_dc_1=1;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F"
+1537335291884	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=6121212845785;gtm=G9c;auiddc=1040831345.1537335277;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2F?"
+1537335296445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1537335297564	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1537335309579	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 564: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 615: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 1669: unreachable code after return statement
+1537335349356	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1537335349555	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/signIn"
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "core"
+http://requirejs.org/docs/errors.html#scripterror
+1537335352304	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1537335352307	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/signIn"
+1537335353525	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/signIn?error=true"
+1537335353535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1537335353693	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/signIn?error=true"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537335354156	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=4248040005551;gtm=G9c;auiddc=1040831345.1537335277;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2FsignIn%3Ferror%3Dtrue?"
+1537335356326	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=4248040005551;gtm=G9c;auiddc=1040831345.1537335277;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2FsignIn%3Ferror%3Dtrue?"
+1537335357056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1537335358173	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1537335358975	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/signIn?error=true"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 564: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 615: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 1669: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537335425411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1537335425722	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.gucci.com/us/en/signIn"
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "userTrackingInfo"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "ajaxLoader"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "keysNavigationOverlay"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "headerCompressed"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "thankYouNewsletter"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "formValidation"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "searchFlyout"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "tooltip"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "signIn"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "signInSalesAssistant"
+http://requirejs.org/docs/errors.html#scripterror
+1537335427185	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.gucci.com/us/en/signIn"
+1537335427195	Marionette	DEBUG	Received DOM event "unload" for "https://www.gucci.com/us/en/signIn"
+1537335428415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1537335428416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1537335428430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.gucci.com/us/en/my-account"
+1537335429102	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537335431028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=9687398743259;gtm=G9c;auiddc=1040831345.1537335277;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1537335431184	Marionette	DEBUG	Received DOM event "pageshow" for "https://4565108.fls.doubleclick.net/activityi;src=4565108;type=visit;cat=arrival;ord=1;num=9687398743259;gtm=G9c;auiddc=1040831345.1537335277;u1=us;~oref=https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fmy-account?"
+1537335432256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1537335432585	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=sspizjp6q&kxt=https%3A%2F%2Fwww.gucci.com&kxcl=cdn&kxp="
+1537335432822	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.gucci.com/us/en/my-account"
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 564: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 615: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 1669: unreachable code after return statement
+1537335453182	Marionette	INFO	New connections will no longer be accepted
+[Child 13516] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1537348111087	geckodriver	INFO	geckodriver 0.19.1
+1537348111117	geckodriver	INFO	Listening on 127.0.0.1:52221
+1537348114402	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\thariram\\AppData\\Local\\Temp\\rust_mozprofile.Q6fPmuYvatNP"
+1537348121040	Marionette	INFO	Listening on port 52229
+1537348121928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537348121963	Marionette	DEBUG	[6442450945] Frame script loaded
+1537348121993	Marionette	DEBUG	[6442450945] Frame script registered
+1537348122293	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537348125154	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537348134954	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gucci.com/us/en/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+1537348159575	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gucci.com/us/en/
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 564: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 615: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 1669: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript error: https://www.gucci.com/_ui/responsive/common/js/libs/require/require-2.1.11.min.js, line 1: Error: Script error for "core"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=DC-6869545, line 74: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 564: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 615: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 1669: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 615: unreachable code after return statement
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 1669: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+JavaScript warning: https://gucci-track.inside-graph.com/ig.js, line 564: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+[Child 10652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10652, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 16024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537354045527	Marionette	INFO	Stopped listening on port 52229
+[GPU 15752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

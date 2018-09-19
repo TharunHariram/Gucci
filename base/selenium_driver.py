@@ -141,6 +141,25 @@ class SeleniumDriver():
         except:
             self.log.info("cannot click on element with locator: " + locator + " locatorType: " + locatorType)
 
+    # Method to scroll down to end of Page
+    def actionChainsMethodScrollIntoElement(self, locator, locatorType='id'):
+        try:
+            sign = self.getElement(locator, locatorType)
+            self.driver.execute_script("arguments[0].scrollIntoView();", locator);
+            self.log.info("Clicked on element with locator: " + locator + " locatorType: " + locatorType)
+        except:
+            self.log.info("cannot click on element with locator: " + locator + " locatorType: " + locatorType)
+
+
+            # Method to scroll down to end of Page
+
+    def actionChainsMethodScrollBottomPage(self):
+        try:
+            self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight)");
+            self.log.info("Scrolled to Bottom of the page")
+        except:
+            self.log.info("cannot Scroll to Bottom of the page")
+
     def actionChainsMethodHover(self, locator, locatorType='id'):
         try:
             sign = self.getElement(locator, locatorType)
@@ -150,6 +169,7 @@ class SeleniumDriver():
             self.log.info("Clicked on element with locator: " + locator + " locatorType: " + locatorType)
         except:
             self.log.info("cannot click on element with locator: " + locator + " locatorType: " + locatorType)
+
 
 
     def sendKeys(self, data, locator='', locatorType = 'id',element=None):

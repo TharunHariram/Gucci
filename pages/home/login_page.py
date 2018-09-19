@@ -79,6 +79,7 @@ class LoginPage(BasePage):
 
     def Login(self, username='', password=''):
         time.sleep(25)
+
         self.clickSignInlink()
         time.sleep(10)
         self.enterUsername(username)

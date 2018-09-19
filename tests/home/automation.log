@@ -262,3 +262,51 @@
 04/04/2018 12:55:00 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
 04/04/2018 12:55:01 PM - TestStatus - INFO: Screenshot saved to directory: C:\Users\harirath\PycharmProjects\Gucci\base\../screenshots/Login was successful.1522826700980.png
 04/04/2018 12:55:01 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+09/19/2018 11:05:34 AM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+09/19/2018 11:05:35 AM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+09/19/2018 11:05:48 AM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+09/19/2018 11:05:48 AM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+09/19/2018 11:05:48 AM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+09/19/2018 11:05:48 AM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+09/19/2018 11:05:48 AM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+09/19/2018 11:05:49 AM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+09/19/2018 11:05:49 AM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+09/19/2018 11:05:58 AM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+09/19/2018 11:06:29 AM - LoginPage - INFO: Element Found with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] and locatorType: xpath
+09/19/2018 11:06:29 AM - LoginPage - INFO: Element present with locator: //form[@id="loginPageForm"]//div[contains(text(),"Invalid email and/or password. Try again or click on")] locatorType: xpath
+09/19/2018 11:06:54 AM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+09/19/2018 11:06:54 AM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+09/19/2018 11:07:04 AM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+09/19/2018 11:07:04 AM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+09/19/2018 11:07:05 AM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+09/19/2018 11:07:05 AM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+09/19/2018 11:07:05 AM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+09/19/2018 11:07:05 AM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+09/19/2018 11:07:05 AM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+09/19/2018 11:07:12 AM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+09/19/2018 11:07:33 AM - Util - INFO: Actual Text From Application Web UI --> :: Gucci Official Site United States
+09/19/2018 11:07:33 AM - Util - INFO: Expected Text From Application Web UI --> :: Gucci Official Site
+09/19/2018 11:07:33 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+09/19/2018 11:07:33 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+09/19/2018 11:07:33 AM - LoginPage - INFO: Element Found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+09/19/2018 11:07:33 AM - LoginPage - INFO: Element present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+09/19/2018 11:07:33 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+09/19/2018 11:07:33 AM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+09/19/2018 02:44:14 PM - LoginPage - INFO: Element Found with locator: //li[@id='header-nav-signin']/a[1] and locatorType: xpath
+09/19/2018 02:44:15 PM - LoginPage - INFO: Clicked on element with locator: //li[@id='header-nav-signin']/a[1] locatorType: xpath
+09/19/2018 02:44:27 PM - LoginPage - INFO: Element Found with locator: j_username and locatorType: id
+09/19/2018 02:44:27 PM - LoginPage - INFO: Sent data on element with locator: j_username locatorType: id
+09/19/2018 02:44:27 PM - LoginPage - INFO: Element Found with locator: j_password and locatorType: id
+09/19/2018 02:44:27 PM - LoginPage - INFO: Sent data on element with locator: j_password locatorType: id
+09/19/2018 02:44:27 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']/div[4]/div/label and locatorType: xpath
+09/19/2018 02:44:27 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']/div[4]/div/label locatorType: xpath
+09/19/2018 02:44:27 PM - LoginPage - INFO: Element Found with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] and locatorType: xpath
+09/19/2018 02:44:58 PM - LoginPage - INFO: Clicked on element with locator: //form[@id='loginPageForm']//button[contains(text(),'Sign In')] locatorType: xpath
+09/19/2018 02:45:18 PM - Util - INFO: Actual Text From Application Web UI --> :: Gucci Official Site United States
+09/19/2018 02:45:18 PM - Util - INFO: Expected Text From Application Web UI --> :: Gucci Official Site
+09/19/2018 02:45:18 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+09/19/2018 02:45:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+09/19/2018 02:45:18 PM - LoginPage - INFO: Element Found with locator: //div[@id='page']//span[contains(text(), 'Hariram')] and locatorType: xpath
+09/19/2018 02:45:18 PM - LoginPage - INFO: Element present with locator: //div[@id='page']//span[contains(text(), 'Hariram')] locatorType: xpath
+09/19/2018 02:45:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+09/19/2018 02:45:18 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL

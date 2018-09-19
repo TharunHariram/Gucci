@@ -1,4 +1,3 @@
 {
-  "login_tests.py::LoginTests::test_invalidlogin": true,
-  "login_tests.py::LoginTests::test_validlogin": true
+  "login_tests.py::LoginTests::test_invalidlogin": true
 }
